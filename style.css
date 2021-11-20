@@ -4,26 +4,6 @@
     padding: 0;
     box-sizing: border-box;
 }
-body{
-    /* background-color: red; */
-}
-/* @media screen and (max-width:1000px) {
-body{
-    background-color: green;
-}
-}
-@media screen and (max-width:500px) {
-    body{
-        background-color: darkblue;
-    } */
-    
-}
-@media screen and (min-width:500px) {
-    body{
-        /* background-color: rgb(78, 72, 72); */
-    }
-    
-}
 .box{
     /* background-color: blueviolet; */
     /* border: 1px solid black; */
@@ -119,7 +99,7 @@ body{
     object-fit: contain;
 }
 .item .box{
-    padding-left: 66px;
+    /* padding-left: 66px; */
 }
 .zagl{
     position: relative;
